@@ -4,8 +4,6 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "build": "node index.js --email jamie337nichols@gmail.com --password Caraway1!! --playlists \"Game Dev\" --directory D:/Packtpub/",
-        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
     "license": "ISC",
