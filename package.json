@@ -1,0 +1,17 @@
+{
+    "name": "nightmare_scraper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js --email jamie337nichols@gmail.com --password Caraway1!! --playlists \"Game Dev\" --directory D:/Packtpub/",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nightmare": "^3.0.2",
+        "progress": "^2.0.3",
+        "sanitize-filename": "^1.6.3"
+    }
+}
