@@ -6,7 +6,7 @@ const Playlist = require("./Playlist.js");
 
 const email = getArg("--email");
 const password = getArg("--password");
-const playlists = getArg("--playlists").split(", ").map(list => {
+const playlists = getArg("--playlist").split(", ").map(list => {
     return list.toLowerCase()
 });
 const course_list = [];
