@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
     },
-    "author": "",
+    "author": "Jamie Nichols",
     "license": "MIT",
     "dependencies": {
         "nightmare": "^3.0.2",
