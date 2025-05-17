@@ -1,0 +1,289 @@
+{
+    "title": "Recording 5/17/2025 at 3:20:44 PM",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 2974,
+            "height": 1056,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.google.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.google.com/",
+                    "title": "Google"
+                }
+            ]
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.packtpub.com/login",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.packtpub.com/login",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.login-page__main__container > div > div"
+                ],
+                [
+                    "xpath///*[@id=\"loginPage\"]/div[2]/div/div"
+                ],
+                [
+                    "pierce/div.login-page__main__container > div > div"
+                ]
+            ],
+            "offsetY": 278.75,
+            "offsetX": 163
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Enter Email"
+                ],
+                [
+                    "#inline-form-input-username"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-username\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-username"
+                ]
+            ],
+            "offsetY": 10.75,
+            "offsetX": 137
+        },
+        {
+            "type": "change",
+            "value": "jamie",
+            "selectors": [
+                [
+                    "aria/Enter Email"
+                ],
+                [
+                    "#inline-form-input-username"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-username\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-username"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Enter Email"
+                ],
+                [
+                    "#inline-form-input-username"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-username\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-username"
+                ]
+            ],
+            "offsetY": 17.75,
+            "offsetX": 152
+        },
+        {
+            "type": "change",
+            "value": "jamienichols@codingbutter.com",
+            "selectors": [
+                [
+                    "aria/Enter Email"
+                ],
+                [
+                    "#inline-form-input-username"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-username\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-username"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Enter Password"
+                ],
+                [
+                    "#inline-form-input-password"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-password\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-password"
+                ]
+            ],
+            "offsetY": 23.25,
+            "offsetX": 122
+        },
+        {
+            "type": "change",
+            "value": "Speed4D",
+            "selectors": [
+                [
+                    "aria/Enter Password"
+                ],
+                [
+                    "#inline-form-input-password"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-password\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-password"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "d",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Speed4Dayz1!",
+            "selectors": [
+                [
+                    "aria/Enter Password"
+                ],
+                [
+                    "#inline-form-input-password"
+                ],
+                [
+                    "xpath///*[@id=\"inline-form-input-password\"]"
+                ],
+                [
+                    "pierce/#inline-form-input-password"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://subscription.packtpub.com/",
+                    "title": "Packt Subscription | Advance your knowledge in tech"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.ml-auto div.nav-link"
+                ],
+                [
+                    "xpath//html/body/header/div[5]/div/div[1]"
+                ],
+                [
+                    "pierce/div.ml-auto div.nav-link"
+                ]
+            ],
+            "offsetY": 7,
+            "offsetX": 50.609375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Icon Playlists"
+                ],
+                [
+                    "div.ml-auto a:nth-of-type(2)"
+                ],
+                [
+                    "xpath//html/body/header/div[5]/div/div[2]/a[2]"
+                ],
+                [
+                    "pierce/div.ml-auto a:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 21,
+            "offsetX": 93.625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://subscription.packtpub.com/playlists",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.listing-component img"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/main/section/div[2]/div[1]/div/div/div[1]/a/img"
+                ],
+                [
+                    "pierce/div.listing-component img"
+                ]
+            ],
+            "offsetY": 63,
+            "offsetX": 49
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.listing-component > div > div:nth-of-type(1) img"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/main/section/div[4]/div/div[1]/div/div[1]/a/img"
+                ],
+                [
+                    "pierce/div.listing-component > div > div:nth-of-type(1) img"
+                ]
+            ],
+            "offsetY": 124.796875,
+            "offsetX": 89
+        }
+    ]
+}

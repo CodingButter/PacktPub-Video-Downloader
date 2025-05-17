@@ -1,0 +1,217 @@
+{
+    "title": "Recording 5/17/2025 at 7:53:35 PM",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 3703,
+            "height": 1321,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://subscription.packtpub.com/video/programming/9781837027019/p1/video1_1/introduction",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://subscription.packtpub.com/video/programming/9781837027019/p1/video1_1/introduction",
+                    "title": "Introduction | Ultimate TypeScript Course 2024 All-in, Learn, Build and Excel [Video]"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) > div.toc-panel__contents__chapter__header"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div[2]/div[1]/div/div[1]/section/div[5]/div[2]/div[1]"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > div.toc-panel__contents__chapter__header"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 405.421875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(4) div.toc-panel__contents__chapter__header--title"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div[2]/div[1]/div/div[1]/section/div[5]/div[4]/div[1]/div[1]/div[2]"
+                ],
+                [
+                    "pierce/div:nth-of-type(4) div.toc-panel__contents__chapter__header--title"
+                ],
+                [
+                    "text/TypeScript Course Project"
+                ]
+            ],
+            "offsetY": 4,
+            "offsetX": 332.453125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Adding event listeners with Event Types"
+                ],
+                [
+                    "div:nth-of-type(4) div:nth-of-type(5) > a"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div[2]/div[1]/div/div[1]/section/div[5]/div[4]/div[3]/div/div[5]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(4) div:nth-of-type(5) > a"
+                ],
+                [
+                    "text/Adding event"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 235.046875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#loader"
+                ],
+                [
+                    "xpath///*[@id=\"loader\"]"
+                ],
+                [
+                    "pierce/#loader"
+                ]
+            ],
+            "offsetY": 710,
+            "offsetX": 291
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#loader"
+                ],
+                [
+                    "xpath///*[@id=\"loader\"]"
+                ],
+                [
+                    "pierce/#loader"
+                ]
+            ],
+            "offsetY": 720,
+            "offsetX": 294
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#loader"
+                ],
+                [
+                    "xpath///*[@id=\"loader\"]"
+                ],
+                [
+                    "pierce/#loader"
+                ]
+            ],
+            "offsetY": 896,
+            "offsetX": 251
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.rhs div:nth-of-type(4) svg"
+                ],
+                [
+                    "xpath///*[@id=\"d4\"]/div/svg"
+                ],
+                [
+                    "pierce/div.rhs div:nth-of-type(4) svg"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 12
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Code Download"
+                ],
+                [
+                    "div.rhs a"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div[2]/div[5]/div[1]/div[8]/div/a"
+                ],
+                [
+                    "pierce/div.rhs a"
+                ],
+                [
+                    "text/Code Download"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 55
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Code Download"
+                ],
+                [
+                    "div.rhs a"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div[2]/div[5]/div[1]/div[8]/div/a"
+                ],
+                [
+                    "pierce/div.rhs a"
+                ],
+                [
+                    "text/Code Download"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 32
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.show-sidebar"
+                ],
+                [
+                    "xpath///*[@id=\"root\"]/div/div[2]"
+                ],
+                [
+                    "pierce/div.show-sidebar"
+                ]
+            ],
+            "offsetY": 755,
+            "offsetX": 3678,
+            "duration": 2347
+        }
+    ]
+}
