@@ -1,1 +1,44 @@
-node_modules
+# Dependency directories
+node_modules/
+.pnpm-store/
+
+# Environment variables
+.env
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing and debug files
+test-output/
+screenshots/
+debug/
+*.png
+*error*.log
+*.test.js
+test.js
+auth-debug.js
+
+# Downloaded content
+downloads/
+
+# Chrome data directory
+chrome-data/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+/.idea
+.vscode/
+*.swp
+*.swo
